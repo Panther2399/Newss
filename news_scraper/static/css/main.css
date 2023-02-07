@@ -1,0 +1,92 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/templates/heroic-features)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  background-color: #f8f1f1;
+}
+
+.card{
+  box-shadow: 4px 8px 8px -2px rgba(197,178,178,0.51);
+  -webkit-box-shadow: 4px 8px 8px -2px rgba(197,178,178,0.51);
+  -moz-box-shadow: 4px 8px 8px -2px rgba(197,178,178,0.51);
+}
+
+.card-img-top{
+  height: 150px;
+}
+
+#int_jumbotron {
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  position: relative;
+  padding: 0;
+}
+
+#int_jumbotron img{
+  width: 100%;
+  object-fit: cover;
+  max-height: 300px;
+}
+
+.int-jumbotron-content{
+  position: absolute;
+  z-index: 3; 
+  width: 80%;
+  left: 60px;
+  top: 5em;
+}
+
+#sports_jumbotron {
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  position: relative;
+  padding: 0;
+}
+
+#sports_jumbotron img{
+  width: 100%;
+  object-fit: cover;
+  max-height: 300px;
+}
+
+.sports-jumbotron-content{
+  position: absolute;
+  z-index: 3; 
+  width: 80%;
+  left: 60px;
+  top: 5em;
+}
+
+.card-title{
+  color: #2F4865;
+  font-weight: 500;
+}
+
+.read-more-btn{
+  background-color: #2F4865 !important;
+  border: none !important;
+}
+
+.navbar{
+  background-color: #020C18;
+  font-weight: bold;
+  box-shadow: 0px 3px 12px -2px rgba(0,0,0,0.75);
+ -webkit-box-shadow: 0px 3px 12px -2px rgba(0,0,0,0.75);
+ -moz-box-shadow: 0px 3px 12px -2px rgba(0,0,0,0.75);
+}
+
+.navbar a{
+  color: #fff !important;
+}
